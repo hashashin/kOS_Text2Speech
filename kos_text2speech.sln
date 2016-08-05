@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kos_text2speech", "kos_text2speech\kos_text2speech.csproj", "{53F19FE1-47D0-4DB6-A3B3-7C63B412D275}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53F19FE1-47D0-4DB6-A3B3-7C63B412D275}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53F19FE1-47D0-4DB6-A3B3-7C63B412D275}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53F19FE1-47D0-4DB6-A3B3-7C63B412D275}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53F19FE1-47D0-4DB6-A3B3-7C63B412D275}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
